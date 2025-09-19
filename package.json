@@ -1,0 +1,16 @@
+{
+  "name": "brand-building",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "^1.2.22"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@maxdev1/sotajs": "^0.3.0",
+    "zod": "^4.1.9"
+  }
+}
